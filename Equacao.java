@@ -10,6 +10,9 @@ public class Equacao{
         Scanner sc = new Scanner(System.in);
 
 //        Lendo o valor de 'a'
+        /*
+
+         */
         System.out.print("Digite o valor de A:");
         double a = sc.nextDouble();
 
